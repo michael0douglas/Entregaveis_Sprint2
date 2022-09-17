@@ -1,6 +1,7 @@
 # NOSSO REPOSITORIO DA SPRINT 2
 📚  ***Sobre o nosso projeto!***
 Um sistema IOT empregado com uma solução Temperatura e umidade para auxiliar ao plantio de cafe.
+
  *A equipe utiliza da metodologia SCRUM para organizar suas atividades.*
  
  
