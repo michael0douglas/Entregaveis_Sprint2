@@ -1,4 +1,5 @@
 [![All Contributors](https://img.shields.io/badge/contribuidores_sprint_2-6-orange.svg?style=flat-square)](#contributors)
+[![TRELLO FERRAMENTA](https://img.shields.io/badge/-trello-blue)](https://trello.com/b/1c55RnRI/sprint2)
 # NOSSO REPOSITORIO DA SPRINT 2 
 📚  ***Sobre o nosso projeto!***
 Um sistema IOT empregado com uma solução Temperatura e umidade para auxiliar ao plantio de cafe.
