@@ -1,11 +1,11 @@
-# NOSSO REPOSITORIO DA SPRINT 2
+[![All Contributors](https://img.shields.io/badge/contribuidores_sprint_2-6-orange.svg?style=flat-square)](#contributors)
+# NOSSO REPOSITORIO DA SPRINT 2 
 📚  ***Sobre o nosso projeto!***
 Um sistema IOT empregado com uma solução Temperatura e umidade para auxiliar ao plantio de cafe.
 
  *A equipe utiliza da metodologia SCRUM para organizar suas atividades.*
  
- 
- 🧑‍💼  #Nossas regras
+ ## nossas regras 🧑‍💼
  
 ***Afim de criar o melhor ambiente de trabalho para a nossa equipe, fizemos algumas regras que devem ser seguidas até o fim do projeto.***
  
