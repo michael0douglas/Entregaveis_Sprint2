@@ -20,7 +20,7 @@ Um sistema IOT empregado com uma solução Temperatura e umidade para auxiliar a
 > 
 > ***5. Reuniões são obrigatórias nos seguintes dias assim que um projeto for finalizado:***
 > 
-> 6.***2ª feira - Revisão para apresentar na aula de PI.***
+> 6.***3ª feira - Revisão para apresentar na aula de PI.***
 > 
 > 7.***6ª feira - Organização e delegação de cargos, rotatividade (P.O) destes.***
 > 
